@@ -11,7 +11,7 @@ l’Institut se déploie à travers le Québec grâce à son réseau composé de
 ## 🌈 Contribution
 [CONTRIBUTING GUIDELINES](../.github/CONTRIBUTING.md) 
 
-## 👩‍🔬👨‍🔬 Contacts
+## 👩‍🔬 Contacts 👨‍🔬
 [Sylvain Gaudet, PhD](<sgaudet@insquebec.org>) : Scientifique des données et administrateur de l'organisation GitHub  
 [Thomas Romeas, PhD](<tromeas@insquebec.org>) : Chef Recherche et Innovation  
 [Evelyne Dubé, MSc](<edube@insquebec.org>) : Projets Synergiques  
