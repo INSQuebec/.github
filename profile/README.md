@@ -9,7 +9,7 @@ l’Institut se déploie à travers le Québec grâce à son réseau composé de
 [Standards d'organisation et modèles](https://github.com/INSQuebec/INS_Docs_StandardsAndTemplates)  
 
 ## 🌈 Contribution
-[CONTRIBUTING GUIDELINES](https://github.com/INSQuebec/INS_Docs_StandardsAndTemplates/blob/c4db766d6f57fdd02f3d187540111aa2ffa1ef69/templates/CONTRIBUTING-fr.md) 
+[CONTRIBUTING GUIDELINES](../.github/CONTRIBUTING.md) 
 
 ## 👩‍🔬👨‍🔬 Contacts
 [Sylvain Gaudet, PhD](<sgaudet@insquebec.org>) : Scientifique des données et administrateur de l'organisation GitHub  
