@@ -3,7 +3,7 @@ name: "\U0001F41B Bug Report"
 about: To signal problems or errors
 title: ''
 labels: bug
-issuetype: bug
+type: bug
 assignees: ''
 
 ---
